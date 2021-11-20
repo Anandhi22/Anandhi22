@@ -10,6 +10,10 @@ About Me:
 
 ### Connect with me :
 
-[<img align="left" alt="anandhi-subramaniam-aa9494137 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/LinkedIn.svg" />
+
+
+
+
 
 
