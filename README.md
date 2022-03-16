@@ -4,7 +4,7 @@
 
 About Me:
 
-- 🌱 I’m currently learning Java DSA and stuffs...
+- 🌱 I’m currently learning Java DSA...
 - 👯 I’m looking to collaborate on open source Projects..
 
 
