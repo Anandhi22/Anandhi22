@@ -39,7 +39,7 @@
 
 - :zap: Love to Solve Puzzles! 
 
-- :mailbox:you can reach me on:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anandhi-subramaniam/)
+- :mailbox: You can always reach me on:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anandhi-subramaniam/)
 
 
 </br>
